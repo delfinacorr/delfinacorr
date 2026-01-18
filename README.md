@@ -56,13 +56,15 @@
   <a href="https://www.linkedin.com/in/delfina-corradini-668795224">
     <img src="https://img.shields.io/badge/LinkedIn-delfina--corradini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/delfinacorr">
+  <a href="https://x.com/Delfiicorradini">
     <img src="https://img.shields.io/badge/-@Delfiicorradini-B28DFF?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="delfinacorradini073@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=delfinacorradini073@gmail.com">
     <img src="https://img.shields.io/badge/delfinacorradini073@gmail.com-5DE6DE?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
 
 
 ---
