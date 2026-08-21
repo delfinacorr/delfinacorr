@@ -89,9 +89,5 @@
 
 ## 📈 My GitHub Journey
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=delfinacorr&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="170" alt="Overall Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=delfinacorr&layout=compact&theme=radical&border_radius=10&langs_count=6" height="170" alt="Top Languages" />
-</p>
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=delfinacorr&theme=radical&hide_border=true" alt="GitHub Streak" />
 
