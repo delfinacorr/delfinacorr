@@ -1,7 +1,7 @@
  <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7AC6,50:B28DFF,100:00E0FF&height=260&section=header&text=Hi,There%20!%20I'm%0ADelfina%20Corradini&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Systems%20Engineering%20👩‍💻&descSize=20&descAlignY=55" /></p>
 
 <p align="center">
-   🌐 Creating tools that touch lives & inspire change  
+   Building tech with intention, heart & impact.  
 </p>
 
 
