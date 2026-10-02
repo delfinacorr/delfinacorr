@@ -8,7 +8,7 @@
 ## 🧠 About me
 - 🎓 5rd-year Systems Engineering student (UAI)
 - 💻 Interested in IT, Web Development, Blockchain
-- 🌊 First-time Open Source contributor (Stellar ecosystem)
+- 🌊 Open Source contributor (Stellar ecosystem)
   
 ---
 ## 🛠 Tech Stack
