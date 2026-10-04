@@ -1,9 +1,5 @@
  <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7AC6,50:B28DFF,100:00E0FF&height=260&section=header&text=Hi,There%20!%20I'm%0ADelfina%20Corradini&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Systems%20Engineering%20👩‍💻&descSize=20&descAlignY=55" /></p>
-
-<p align="center">
-   Building tech with intention, heart & impact.  
-</p>
-
+<h3 align="center"><i>La magia está en el trabajo constante y en la pasión por lo que hacemos ✨</i></h3>
 
 ## 🧠 About me
 - 🎓 5rd-year Systems Engineering student (UAI)
